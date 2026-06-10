@@ -34,6 +34,7 @@ Description:
 #include "contact.h"        // Header file containing structure and function declarations
 
 void loadContactsFromFile(AddressBook *addressBook);  // Function prototype to load contacts from file
+// search added
 
 int main() 
 {
